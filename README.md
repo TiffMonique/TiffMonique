@@ -19,7 +19,7 @@ const Monique = {
 
 ### Spotify Playing 🎧
 
-[<img src="https://<YOUR VERCEL SERVER URL>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/vx13vuvbfs8ojphdxdbt2e4jz?si=G24ooxEdT-imzBOIoOUI6g)
+[<img src="https://novatorem.tiffmonique.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/vx13vuvbfs8ojphdxdbt2e4jz?si=G24ooxEdT-imzBOIoOUI6g)
 
 
 <details>
