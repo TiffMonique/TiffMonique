@@ -25,7 +25,7 @@ const Monique = {
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="TiffMonique's Github Stats" src="https://github-readme-stats2.tiffmonique.vercel.app/api?username=TiffMonique&show_icons=true&hide_border=true" />
+  <img align="left" alt="TiffMonique's Github Stats" src="https://github-readme-stats4.tiffmonique.vercel.app/api?username=TiffMonique&show_icons=true&hide_border=true" />
 
 </details>
 
