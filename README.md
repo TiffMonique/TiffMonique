@@ -1,5 +1,7 @@
 <h2> Hi, I'm Monique Matamoros! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Software engineering student at <a href="https://www.unah.edu.hn/">National Autonomous University of Honduras(UNAH)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me in code...  
 ```javascript
@@ -17,19 +19,10 @@ const Monique = {
 </p>
 
 
-### Spotify Playing 🎧
-
-[<img src="https://novatorem.tiffmonique.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/vx13vuvbfs8ojphdxdbt2e4jz?si=G24ooxEdT-imzBOIoOUI6g)
-
-[![Spotify](https://novatorem.tiffmonique.vercel.app//api/spotify-playing)](https://open.spotify.com/user/vx13vuvbfs8ojphdxdbt2e4jz?si=G24ooxEdT-imzBOIoOUI6g)
 
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="TiffMonique's Github Stats" src="https://github-readme-stats4.tiffmonique.vercel.app/api?username=TiffMonique&show_icons=true&hide_border=true" />
 
-</details>
 
 <!--
 **TiffMonique/TiffMonique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
