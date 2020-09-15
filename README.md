@@ -21,6 +21,8 @@ const Monique = {
 
 [<img src="https://novatorem.tiffmonique.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/vx13vuvbfs8ojphdxdbt2e4jz?si=G24ooxEdT-imzBOIoOUI6g)
 
+[![Spotify](https://novatorem.tiffmonique.vercel.app//api/spotify-playing)](https://open.spotify.com/user/vx13vuvbfs8ojphdxdbt2e4jz?si=G24ooxEdT-imzBOIoOUI6g)
+
 
 <details>
   <summary>:zap: Github Stats</summary>
