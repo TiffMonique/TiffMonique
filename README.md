@@ -16,6 +16,8 @@ const Monique = {
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://media4.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width="50">
   <img src="https://media4.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif?cid=ecf05e47b2rwkhq5keu9nlipfca3bthkkfcyhvna39shfcb4&rid=giphy.gif" width="100">
   <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47b2rwkhq5keu9nlipfca3bthkkfcyhvna39shfcb4&rid=200.webp" width="50">
+   <img src="http://www.canalgif.net/Gifs-animados/Informatica/Java/Imagen-animada-Java-02.gif" width="50">
+ 
 </p>
 
 
