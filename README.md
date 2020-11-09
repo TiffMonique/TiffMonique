@@ -10,7 +10,14 @@ const Monique = {
   
 }
 ```
+<p align="center">
+<td width="70>
+      
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
+  </td>
+ </p>
+  
 ### Languages and Tools:
 <p align="left">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://media4.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width="50">
