@@ -2,21 +2,7 @@
 <p><em>Computer systems engineering student at <a href="https://www.unah.edu.hn/">National Autonomous University of Honduras(UNAH)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me in code...  
-```javascript
-const Monique = {
-  pronouns: "she" | "her",
-  code: [ C++, Python, Java],
-  
-}
-```
-<p align="center">
-<td width="70>
-      
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
-  </td>
- </p>
   
 
 
