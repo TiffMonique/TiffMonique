@@ -1,5 +1,5 @@
 <h2> Hi, I'm Monique Matamoros! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Computer systems engineering student at <a href="https://www.unah.edu.hn/">National Autonomous University of Honduras(UNAH)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Full Stack Developer en proceso</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
 
 
