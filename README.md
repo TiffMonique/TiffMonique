@@ -1,5 +1,5 @@
 <h2> Hi, I'm Monique Matamoros! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Full Stack Developer en proceso</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Solo soy una chica que siempre esta dispuesta a aprender</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
 
 
