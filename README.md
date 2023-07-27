@@ -1,6 +1,7 @@
 <h2> Hi, I'm Monique Matamoros! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p>Would you like to code together?</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+
  <h3>💻 GitHub Profile Stats</h3>
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -54,4 +55,6 @@
 
 
 </div>
+
+![snake gif](https://github.com/TiffMonique/TiffMonique/blob/output/github-contribution-grid-snake.gif)
 
